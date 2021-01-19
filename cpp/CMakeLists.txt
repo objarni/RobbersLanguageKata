@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.11)
-project(Tennis-Refactoring)
+project(RobbersLanguageKata)
 
 option(USE_GOOGLE_TEST "If to use google test" ON)
 
